@@ -12,7 +12,7 @@ Image Sensor: XT705 - 1" Sony CMOS
 Image Filter: None  
 sUAS: Autel Evo II Pro RTK  
 Collection: Survey  
-GCP: Yes  
+GCP: Yes, Emlid Reach RS2, NTRIP, estimated 1-2cm accuracy  
 RTK: Yes  
 RINEX: Yes  
 Camera Angle: Nadir 
